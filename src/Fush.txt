@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/MatyMusic/Maty-App.git
+ git remote set-url origin https://MatyMusic: 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@github.com/MatyMusic/Maty-App.git
